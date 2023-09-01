@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.cs": "csharp",
+		"ft_printf.h": "c",
+		"stdio.h": "c",
+		"stdlib.h": "c",
+		"iostream": "cpp",
+		"sstream": "cpp",
+		"iosfwd": "cpp"
+	}
+}
